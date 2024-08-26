@@ -1,5 +1,5 @@
 ### Background
-The project was carried out by me and my colleague as part of a hackathon at our company Random Forest.
+The project was carried out by me and my colleague as part of a hackathon at our company Random Forest in 2023.
 
 The code used to generate the heatmaps is found in "Gradient-Cam.py".
 
