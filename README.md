@@ -1,6 +1,8 @@
 ### Background
 The project was carried out by me and my colleague as part of a hackathon at our company Random Forest.
 
+The code used to generate the heatmaps is found in "Gradient-Cam.py".
+
 ### Initial Plan
 The objective was to use interpretability techniques on a Neural Network that had been 
 developed for the Customer Sahlgrenska in order to predict the future development of cancer based on histopathological images. 
@@ -77,7 +79,7 @@ someone with the relevant medical knowledge.
   </tr>
 </table>
 
-
+The code used to generate the heatmaps is found in "Gradient-Cam.py".
 
 ### Conclussions
 We would need to continue to the project in order to derive insights usable for the continued
