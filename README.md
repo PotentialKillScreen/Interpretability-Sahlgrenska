@@ -15,7 +15,7 @@ such as self-driving cars or medical diagnosis, where the consequences of errors
 catastrophic.
 The short term potential benefit is an added insight for the future work of training the Neural
 Network
-The long term potential benefit is that this could be a start to aquiring an additional skillset at RF
+The long term potential benefit is that this could be a start to acquiring an additional skillset at RF
 that could be leveraged in our consulting services. Since there was next to no experience within
 this field at the company, our ambition for the hackaton was
 modest. The goal was to produce at least one visual of the network that we have some
@@ -85,7 +85,7 @@ The code used to generate the heatmaps is found in "Gradient-Cam.py".
 We would need to continue to the project in order to derive insights usable for the continued
 development of the network. Such steps could be
 - Test with more images to see patterns for which images produced noisy heatmaps.
-- Get input from a medical proffesional on the difference between the images and the heatmaps.
+- Get input from a medical professional on the difference between the images and the heatmaps.
 
 Currently the benefits of the projects is limited to the experience we got from reading about grad-cam 
 and implementing it.
